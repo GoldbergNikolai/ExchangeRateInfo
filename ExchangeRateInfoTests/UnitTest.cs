@@ -1,5 +1,6 @@
 using ChainResourceService;
 using ChainResourceService.Storages;
+using NUnit.Framework;
 using System;
 
 namespace ExchangeRateInfoTests
